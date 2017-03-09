@@ -3,6 +3,7 @@ journal hex codes
 
 
 A01
+	
 	loc			0000/07/01 	welcome.eml
 		no hex
 		
@@ -15,6 +16,7 @@ A01
 			iterarion
 			
 A02
+	
 	loc			0000/01/21	IAN.eml
 		no hex
 		
@@ -26,6 +28,7 @@ A02
 		no hex
 		
 A02 Extra
+	
 	temp		0000/00/00	error.log
 		54 68 65 20 72 6F 61 64 20 6F 66 20 65 78 63 65 73 73 20 6C 65 61 64 73
 			The road of excess leads
@@ -44,6 +47,7 @@ A02 Extra
 		no hex
 		
 A03
+	
 	EP_arch		9999/99/99	AI_feedback.eml
 		no hex
 		
@@ -58,6 +62,7 @@ A03
 		no hex
 		
 A04
+	
 	loc			0000/07/02	progress_rep1.eml
 		4C 49 46 45 20 55 48 20 46 49 4E 44 53 20 41 20 57 41 59
 			LIFE UH FINDS A WAY
@@ -91,7 +96,8 @@ A04
 		74 68 65 20 75 6E 65 78 61 6D 69 6E 65 64 20 6C 69 66 65 20 69 73 20 6E 6F 74 20 77 6F 72 74 68 20 6C 69 76 69 6E 67
 			the unexamined life is not worth living
 			
-(A05) NEW
+A05
+	
 	webcrawl	9999/09/09	EL.html
 		no hex
 		
@@ -103,6 +109,7 @@ A04
 		
 	
 A06
+	
 	loc			0000/08/01	L0L.eml
 		no hex
 		
@@ -115,6 +122,7 @@ A06
 		
 	
 A06 Extra
+	
 	webcrawl	2018/09/09	a_simple_principle.html
 		45 52 52 4f 52 3a 20 46 49 4c 45 53 20 4d 49 53 53 49 4e 47
 			ERROR: FILES MISSING
@@ -127,6 +135,7 @@ A06 Extra
 		
 	
 A06 Extra 2
+	
 	LZ19col		0000/09/16	classical_philosophers.lz19
 		no hex
 		
@@ -135,6 +144,7 @@ A06 Extra 2
 			erious Engine 7.5, which Croteam have kindly made available to us.
 	
 A07
+	
 	lit_arch	1912 CE		athena9.txt
 		673 574953 444f4d 49204 14d2041 5448454e41
 			s WISDOM I AM ATHENA
@@ -147,6 +157,7 @@ A07
 		
 	
 A08
+	
 	loc			0000/06/03	talos.eml
 		4e 6f 20 6d 61 6e 20 69 
 			No man i
@@ -176,6 +187,7 @@ A08
 		
 	
 B01
+	
 	eg_src		???? BCE	osiris1.txt
 		no hex
 		
@@ -187,6 +199,7 @@ B01
 		
 	
 B01 Extra
+	
 	webcrawl	2028/08/29	mutation.html
 		4c494 6452 0465 24 f4d204 5525 24f52
 			LIFE FROM ERROR
@@ -199,6 +212,7 @@ B01 Extra
 			ITERATION
 	
 B02
+	
 	webcrawl	2013/02/13	science_magic.html
 		no hex
 		
@@ -210,6 +224,7 @@ B02
 		
 	
 B03
+	
 	loc			0000/08/02	progress_rep9.eml
 		no hex
 		
@@ -221,6 +236,7 @@ B03
 		
 	
 B03 Extra
+	
 	lit_arch	1759 CE		body_and_soul.txt
 		45 74 65 72 6e 69 74 79 20 69 73 20 69 6e 20 6c 6f 76 65 20 77 69 74 68 20 74 68 65 20 70 72 6f 64 75 63 74 69 6f 6e 73 20 6f 66 20 74 69 6d 65 2e
 			Eternity is in love with the productions of time.
@@ -230,6 +246,7 @@ B03 Extra
 		
 	
 B04
+	
 	eg_src		???? BCE	osiris6.txt
 		no hex
 		
@@ -241,6 +258,7 @@ B04
 		
 	
 B05
+	
 	eg_src		???? BCE	osiris7.txt
 		no hex
 		
@@ -252,6 +270,7 @@ B05
 		
 	
 B05 Extra
+	
 	CL_arch		400 BCE		hippocratic_corpus.txt
 		no hex
 		
@@ -267,6 +286,7 @@ B05 Extra
 		
 	
 B06
+	
 	eg_src		???? BCE	osiris11.txt
 		4141 525 52055 504c4 f4144
 			AARU UPLOAD
@@ -280,6 +300,7 @@ B06
 		
 	
 B07
+	
 	webcrawl	0000/11/13	chatlog_9787.txt
 		no hex
 		
@@ -291,6 +312,7 @@ B07
 		
 	
 B07 Extra
+	
 	phil_arc	1784 CE		second_thesis.txt
 		no hex
 		
@@ -303,6 +325,7 @@ B07 Extra
 		
 	
 B08
+	
 	webcrawl	9999/12/24	orangutan.html
 		no hex
 		
@@ -317,6 +340,7 @@ B08
 		
 	
 C01
+	
 	mdv_th		890 CE		apocrypha1.doc
 		746865206 c 696f6e 202 620776f6 c6620 7368616c6 c2063 65617 365
 			the lion & wolf shall cease
@@ -335,6 +359,7 @@ C01
 		
 	
 C01 Extra		
+	
 	loc			0000/07/30	against_survival.eml
 		no hex
 		
@@ -347,6 +372,7 @@ C01 Extra
 			SURVIVAL
 	
 C02
+	
 	webcrawl	0000/11/27	family.html
 		no hex
 		
@@ -355,6 +381,7 @@ C02
 		
 	
 C03
+	
 	webcrawl	0000/11/19	post437.html
 		no hex
 		
@@ -368,6 +395,7 @@ C03
 		
 	
 C04
+	
 	webcrawl	0000/12/11	pets.html
 		no hex
 		
@@ -379,6 +407,7 @@ C04
 			Energy isEternal Delight
 	
 C05
+	
 	EP_arch		0000/12/04	party_on_dudes.eml
 		no hex
 		
@@ -390,6 +419,7 @@ C05
 		
 	
 C05 Extra
+	
 	loc			9996/06/23	transcendence.html
 		no hex
 		
@@ -401,6 +431,7 @@ C05 Extra
 			no hex
 	
 C06
+	
 	EP_arch		0000/12/09	faith.eml
 		no hex
 		
@@ -413,6 +444,7 @@ C06
 			no hex
 	
 C07
+	
 	loc			0000/12/14	arkady_journal108.txt
 		no hex
 		
@@ -425,6 +457,7 @@ C07
 			to form the golden armour of science
 	
 C08
+	
 	lit_arch	1872 CE		human_eye.txt
 		65 76 65 72 79 74 68 69 6e 67 20 77 6f 75 6c 64 20 61 70 70 65 61 72 20 74 6f 20 6d 61 6e 20 61 73 20 69 74 20 69 73 
 			everything would appear to man as it is
@@ -441,6 +474,7 @@ C08
 		
 	
 Land A Elevator
+	
 	lit_arch	1912 CE		athena12.txt
 		41 53 4345 4e 44 20 4f4c 59 4d 5055 53 43 4849 4c 44 20 4f46 205a 45 5553 53
 			ASCEND OLYMPUSCHILD OF ZEUSS
@@ -450,6 +484,7 @@ Land A Elevator
 		
 	
 Land B Elevator
+	
 	webcrawl	2022/07/01	oxyrhynchus.html
 		4c 49 46 45 20 49 4e 20 44 45 41 54 48 20 42 45 47 49 4e 53 20 41 4e 45 57 
 			LIFE IN DEATH BEGINS ANEW
@@ -459,6 +494,7 @@ Land B Elevator
 		
 	
 Land C Elevator
+	
 	poet_arc	1667 CE		heaven.txt
 		no hex
 		
@@ -467,6 +503,7 @@ Land C Elevator
 			One thought. fills immensity.
 	
 Land C Elevator Hidden
+	
 	archive		9998/05/01	questioning_doubt_conf.txt
 		no hex
 		
@@ -478,6 +515,7 @@ Land C Elevator Hidden
 		
 	
 Tower Floor 1
+	
 	webcrawl	0000/06/18	TRUTH.html
 		no hex
 		
@@ -490,6 +528,7 @@ Tower Floor 1
 		
 	
 Tower Floor 2
+	
 	loc			0000/00/00	README.txt
 		no hex
 		
@@ -501,6 +540,7 @@ Tower Floor 2
 		
 	
 Tower Floor 3
+	
 	eg_src		???? BCE	OsirisPassword.txt
 		no hex
 		
@@ -516,6 +556,7 @@ Tower Floor 3
 		
 	
 Tower Floor 4
+	
 	mdv_th		890 CE		SacredNumbers.txt
 		no hex
 		
